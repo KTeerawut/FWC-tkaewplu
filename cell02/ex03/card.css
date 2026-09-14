@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.card {
+    width: 300px;
+    margin: 50px auto;
+    box-shadow: 0 4px 8px gray;
+}
+
+.card h1 {
+    padding: 15px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td {
+    text-align: center;
+}
+
+.profile {
+    width: 100%;
+}
+
+.socials img {
+    width: 25px;
+    margin: 5px;
+}
+
+button {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    background-color: black;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
